@@ -4,9 +4,9 @@ public class Java
 {
 	public static void  add (int a,int b,int c)
 	{
-		int d=a;
+		int n=a;
 		int e=c;
-		int f=d+e;
+		int f=n+e;
 		System.out.println(f);
 		System.out.println("It is a three argument method");
 	}
